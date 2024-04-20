@@ -34,7 +34,104 @@
 
 </br>
 
-## 화면 구현
- 메인페이지
- 트레이너페이지
- 대표페이지
+## :date: 화면 구현
+### [ PT일정관리 ]
+- 관리자페이지에서 PT일정을 클릭하면 보여지는 화면입니다.
+- fullcalendar API를 이용하였습니다. 
+- 로그인한 트레이너가 담당하는 회원들의 PT일정이 조회됩니다. </br>
+<table>
+<thead>
+<tr>
+<th>PT일정조회</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" href="https://github.com/dandi0624/MZym/assets/153481807/6c69d520-7f93-45d7-8150-def07f73a085"><img src="https://github.com/dandi0624/MZym/assets/153481807/6c69d520-7f93-45d7-8150-def07f73a085" data-animated-image="" style="max-width: 80%;"></a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+### [ 일정 상세조회 ]
+- 등록되어있는 일정을 클릭하면 보여지는 일정의 상세내용입니다.
+<table>
+<thead>
+<tr>
+<th> 일정 상세조회 </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" href="https://github.com/dandi0624/MZym/assets/153481807/19ea0d2c-e868-435f-97b9-6e9b6bff5806"><img src="https://github.com/dandi0624/MZym/assets/153481807/19ea0d2c-e868-435f-97b9-6e9b6bff5806" data-animated-image="" style="max-width: 80%;"></a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+### [ 회원조회 ]
+- 회원의 정보를 입력하여 조회하고자 하는 날짜를 조회할 수 있습니다.
+<table>
+<thead>
+<tr>
+<th> 회원조회 </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" href="https://github.com/dandi0624/MZym/assets/153481807/eb3f1293-08a2-41c9-9c9c-0c293edeb0ed"><img src="https://github.com/dandi0624/MZym/assets/153481807/eb3f1293-08a2-41c9-9c9c-0c293edeb0ed" data-animated-image="" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+### [ 일정관리 ]
+- 일정을 등록, 수정, 삭제 할 수 있습니다.
+- 등록시 회원의 정보가 잘못 입력되었을 경우 등록이 되지 않도록 하였습니다.
+- 담당하는 회원의 일정만 등록이 가능합니다.
+- 수정시 기존에 입력되었던 회원의 정보는 수정이 불가하도록 설정 하였습니다.
+
+<table>
+<thead>
+<tr>
+<th> 일정등록  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" href="https://github.com/dandi0624/MZym/assets/153481807/7502c02e-987a-4d8e-b9d6-65032cac9124"><img src="https://github.com/dandi0624/MZym/assets/153481807/7502c02e-987a-4d8e-b9d6-65032cac9124" data-animated-image="" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th> 일정수정  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" href="https://github.com/dandi0624/MZym/assets/153481807/b53c99cd-a781-4baa-9254-3c7c5bd66e32"><img src="https://github.com/dandi0624/MZym/assets/153481807/b53c99cd-a781-4baa-9254-3c7c5bd66e32" data-animated-image="" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th> 일정수정  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" href="https://github.com/dandi0624/MZym/assets/153481807/0e25e71f-006c-4232-af62-90fc40d623dc"><img src="https://github.com/dandi0624/MZym/assets/153481807/0e25e71f-006c-4232-af62-90fc40d623dc" data-animated-image="" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+
+
+
